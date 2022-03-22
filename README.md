@@ -6,43 +6,39 @@
 
 ### 单链表
 
-| 题目                                                         | 难度 | 题解 |
-| ------------------------------------------------------------ | ---- | ---- |
-| [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 简单 |      |
-| [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 简单 |      |
-| [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 简单 |      |
-| [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | 简单 |      |
-| [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) | 简单 |      |
-| [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | 简单 |      |
-| [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | 简单 |      |
-| [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | 中等 |      |
-| [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/) | 中等 |      |
-| [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | 中等 |      |
-| [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 中等 |      |
-| [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | 中等 |      |
-| [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | 中等 |      |
-| [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) | 中等 |      |
-| [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | 中等 |      |
-| [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | 中等 |      |
-| [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | 中等 |      |
-| [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 中等 |      |
-| [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | 中等 |      |
-| [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list/) | 中等 |      |
-| [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | 中等 |      |
-| [430. 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/) | 中等 |      |
-| [725. 分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/) | 中等 |      |
-| [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | 困难 |      |
+| 题目                                                         | 难度 | 题解                        | 测试 |
+| ------------------------------------------------------------ | ---- |---------------------------| ---- |
+| [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 简单 | [Go](./linkedlist/206.go) | pass |
+| [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 简单 | [Go](./linkedlist/141.go) | pass |
+| [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 简单 | [Go](./linkedlist/83.go)  | pass |
+| [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | 简单 | [Go](./linkedlist/234.go) | pass |
+| [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) | 简单 | [Go](./linkedlist/203.go) | pass |
+| [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | 简单 | [Go](./linkedlist/237.go) | pass |
+| [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | 简单 | [Go](./linkedlist/876.go) | pass |
+| [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | 中等 | [Go](./linkedlist/92.go)  | pass |
+| [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/) | 中等 | [Go](./linkedlist/143.go) | pass |
+| [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | 中等 | [Go](./linkedlist/82.go)  | pass |
+| [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 中等 | [Go](./linkedlist/19.go)  | pass |
+| [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | 中等 | [Go](./linkedlist/148.go) | pass |
+| [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | 中等 | [Go](./linkedlist/86.go)  | pass |
+| [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) | 中等 | [Go](./linkedlist/61.go)  | pass |
+| [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | 中等 | [Go](./linkedlist/142.go) | pass |
+| [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | 中等 | [Go](./linkedlist/147.go) | pass |
+| [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 中等 | [Go](./linkedlist/24.go)  | pass |
+| [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | 中等 | [Go](./linkedlist/328.go) | pass |
+| [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | 中等 | [Go](./linkedlist/109.go) | pass |
+| [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | 困难 | [Go](./linkedlist/25.go)  | pass |
 
 ### 双链表
 
-| 题目                                                         | 难度 | 题解 |
-| ------------------------------------------------------------ | ---- | ---- |
-| [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 简单 |      |
-| [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 简单 |      |
-| [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | 中等 |      |
-| [445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/) | 中等 |      |
-| [1669. 合并两个链表](https://leetcode-cn.com/problems/merge-in-between-linked-lists/) | 中等 |      |
-| [23. 合并 K 个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 困难 |      |
+| 题目                                                         | 难度 | 题解                       | 测试 |
+| ------------------------------------------------------------ | ---- | -------------------------- | ---- |
+| [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 简单 | [Go](./linkedlist/21.go)   | pass |
+| [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 简单 | [Go](./linkedlist/160.go)  | 缺少 |
+| [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | 中等 | [Go](./linkedlist/2.go)    | pass |
+| [445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/) | 中等 | [Go](./linkedlist/445.go)  | pass |
+| [1669. 合并两个链表](https://leetcode-cn.com/problems/merge-in-between-linked-lists/) | 中等 | [Go](./linkedlist/1669.go) | pass |
+| [23. 合并 K 个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 困难 | [Go](./linkedlist/23.go)   | pass |
 
 ## 𐀴 树
 
