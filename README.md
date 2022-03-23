@@ -40,74 +40,64 @@
 | [1669. 合并两个链表](https://leetcode-cn.com/problems/merge-in-between-linked-lists/) | 中等 | [Go](./linkedlist/1669.go) | pass |
 | [23. 合并 K 个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 困难 | [Go](./linkedlist/23.go)   | pass |
 
-## 𐀴 树
+## 树
 
 #### 遍历
 
-###### 简单
-
-- [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
-- [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
-- [589. N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)
-- [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
-- [590. N 叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)
-
-###### 中等
-
-- [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
-- [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
-- [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
+| 题目                                                         | 难度 | 题解 | 测试 |
+| ------------------------------------------------------------ | ---- | ---- | ---- |
+| [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | 简单 |      |      |
+| [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 简单 |      |      |
+| [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | 简单 |      |      |
+| [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | 中等 |      |      |
+| [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | 中等 |      |      |
+| [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | 中等 |      |      |
+| [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | 简单 |      |      |
+| [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 中等 |      |      |
+| [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 中等 |      |      |
+| [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | 中等 |      |      |
+| [889. 根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | 中等 |      |      |
+| [1008. 前序遍历构造二叉搜索树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 中等 |      |      |
+| [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | 困难 |      |      |
 
 #### 构造
 
-###### 简单
-
-- [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
-
-###### 中等
-
-- [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-- [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
-- [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
-- [889. 根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
-- [1008. 前序遍历构造二叉搜索树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/)
-
-###### 困难
-
-- [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+| 题目                                                         | 难度 | 题解 | 测试 |
+| ------------------------------------------------------------ | ---- | ---- | ---- |
+| [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | 简单 |      |      |
+| [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 中等 |      |      |
+| [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 中等 |      |      |
+| [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | 中等 |      |      |
+| [889. 根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | 中等 |      |      |
+| [1008. 前序遍历构造二叉搜索树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 中等 |      |      |
+| [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | 困难 |      |      |
 
 #### 路径 | 深度 | 翻转
 
-###### 简单
-
-- [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
-- [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
-- [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
-- [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
-- [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
-- [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
-- [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
-- [100. 相同的树](https://leetcode-cn.com/problems/same-tree/)
-- [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)
-- [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
-
-###### 中等
-
-- [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-- [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
-- [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)
-- [437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)
-- [129. 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
-- [662. 二叉树最大宽度](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/)
-- [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
-- [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
-- [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
-- [515. 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)
-
-###### 困难
-
-- [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
-- [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+| 题目                                                         | 难度 | 题解 |      |
+| ------------------------------------------------------------ | ---- | ---- | ---- |
+| [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | 简单 |      |      |
+| [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | 简单 |      |      |
+| [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | 简单 |      |      |
+| [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | 简单 |      |      |
+| [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | 简单 |      |      |
+| [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | 简单 |      |      |
+| [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | 简单 |      |      |
+| [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) | 简单 |      |      |
+| [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)  | 简单 |      |      |
+| [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | 简单 |      |      |
+| [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 中等 |      |      |
+| [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | 中等 |      |      |
+| [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | 中等 |      |      |
+| [437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) | 中等 |      |      |
+| [129. 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | 中等 |      |      |
+| [662. 二叉树最大宽度](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/) | 中等 |      |      |
+| [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | 中等 |      |      |
+| [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | 中等 |      |      |
+| [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | 中等 |      |      |
+| [515. 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/) | 中等 |      |      |
+| [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | 困难 |      |      |
+| [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | 困难 |      |      |
 
 #### 二叉搜索树
 
