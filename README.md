@@ -80,8 +80,8 @@
 | [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)  | 简单 | [Go](./tree/112.go) | Pass |
 | [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | 简单 | [Go](./tree/111.go) | Pass |
 | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 中等 | [Go](./tree/236.go) | Pass |
-| [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | 中等 |                     |      |
-| [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | 中等 |                     |      |
+| [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | 中等 | [Go](./tree/222.go) | Pass |
+| [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | 中等 | [Go](./tree/113.go) | Pass |
 | [437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) | 中等 |                     |      |
 | [129. 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | 中等 |                     |      |
 | [662. 二叉树最大宽度](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/) | 中等 |                     |      |
