@@ -94,15 +94,15 @@
 
 #### 二叉搜索树
 
-| 题目                                                         | 难度 | 题解 | 测试 |
-| :----------------------------------------------------------- | ---- | ---- | ---- |
-| [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | 简单 |      |      |
-| [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | 中等 |      |      |
-| [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | 中等 |      |      |
-| [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | 中等 |      |      |
-| [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | 中等 |      |      |
-| [230. 二叉搜索树中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | 中等 |      |      |
-| [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) | 中等 |      |      |
+| 题目                                                         | 难度 | 题解                | 测试 |
+| :----------------------------------------------------------- | ---- | ------------------- | ---- |
+| [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | 简单 | [Go](./tree/108.go) | Pass |
+| [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | 中等 | [Go](./tree/98.go)  | Pass |
+| [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | 中等 | [Go](./tree/96.go)  | Pass |
+| [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | 中等 |                     |      |
+| [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | 中等 |                     |      |
+| [230. 二叉搜索树中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | 中等 |                     |      |
+| [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) | 中等 |                     |      |
 
 #### 字典树
 
